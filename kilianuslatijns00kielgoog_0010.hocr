@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./kilianuslatijns00kielgoog_0010.png"; bbox 0 0 3038 5204; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 525 1890 850 2000">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 525 1890 850 2000">
+     <span class='ocr_line' id='line_1_1' title="bbox 525 1890 850 2000; baseline 0 -40"><span class='ocrx_word' id='word_1_1' title='bbox 525 1890 850 2000; x_wconf 42' lang='lat' dir='ltr'>&amp;AATSCHAPPIJ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 658 2162 722 2209">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 658 2162 722 2209">
+     <span class='ocr_line' id='line_1_2' title="bbox 658 2162 722 2209; baseline 0.031 -2"><span class='ocrx_word' id='word_1_2' title='bbox 658 2162 722 2209; x_wconf 90' lang='lat' dir='ltr'>DER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 251 2383 1118 2464">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 251 2383 1118 2464">
+     <span class='ocr_line' id='line_1_3' title="bbox 251 2383 1118 2464; baseline -0.005 -4"><span class='ocrx_word' id='word_1_3' title='bbox 251 2384 675 2461; x_wconf 83' lang='lat' dir='ltr'>ANTWERPSCHE</span> <span class='ocrx_word' id='word_1_4' title='bbox 703 2383 1118 2464; x_wconf 89' lang='lat' dir='ltr'>BIBLIOPHILEN.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 553 2873 817 2931">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 553 2873 817 2931">
+     <span class='ocr_line' id='line_1_4' title="bbox 553 2873 817 2931; baseline -0.011 0"><span class='ocrx_word' id='word_1_5' title='bbox 553 2873 717 2931; x_wconf 82' lang='lat' dir='ltr'>UITGAVE</span> <span class='ocrx_word' id='word_1_6' title='bbox 735 2875 772 2929; x_wconf 88' lang='lat' dir='ltr'>Nr</span> <span class='ocrx_word' id='word_1_7' title='bbox 791 2874 817 2928; x_wconf 88' lang='lat'>6.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1524 5204">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1524 5204">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1524 5204; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1524 5204; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
